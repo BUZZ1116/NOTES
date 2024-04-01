@@ -5,5 +5,5 @@ CATALINA_BASE=C:\apache-tomcat-9.0.87
 
 TOMCAT_HOME=C:\apache-tomcat-9.0.87
 
-PATH=%CATALINA_HOME%\bin
+PATH=%JAVA_HOME%\bin
 PATH=%CATALINA_HOME%\bin
